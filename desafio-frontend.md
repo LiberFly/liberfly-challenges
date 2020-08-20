@@ -69,4 +69,4 @@ Os dados apresentados no frontend devem ser obtidos a partir de um json, que dev
 
 * Implemente o selectbox com filtro de períodos: no mês, na semana, no dia.
 * Implemente a paginação da tela de extrato ao clicar em "See more" onde as transações são exibidas.
-* No valor da transação, diferenciar por cor as que estão pendentes, aprovadas ou recusadas.
+* No valor da transação, diferencie por cor as que estão pendentes, aprovadas ou recusadas.
