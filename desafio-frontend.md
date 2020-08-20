@@ -14,7 +14,6 @@ Nosso designer projetou no figma a interface do novo aplicativo de carteira digi
 * Crie um README.md no repositório com a documentação do projeto e um tutorial para executá-lo.
 * Descubra quais as fonts utilizadas na interface ou utilize a mais parecida que encontrar. Uma dica é pesquisá-las no site: https://whatfontis.com
 * A interface deve ser responsiva e se a adaptar a diferentes resoluções de smartphones.
-* Implemente o efeito de transição de página.
 
 ## O que será avaliado
 
@@ -70,4 +69,4 @@ Os dados apresentados no frontend devem ser obtidos a partir de um json, que dev
 
 * Implemente o selectbox com filtro de períodos: no mês, na semana, no dia.
 * Implemente a paginação da tela de extrato ao clicar em "See more" onde as transações são exibidas.
-* No valor da transação, direncie por cor as que estão pendentes, aprovadas ou recusadas.
+* No valor da transação, diferenciar por cor as que estão pendentes, aprovadas ou recusadas.
