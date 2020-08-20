@@ -68,6 +68,6 @@ Os dados apresentados no frontend devem ser obtidos a partir de um json, que dev
 
 ## Para ganhar pontos extras
 
-* Implemente o selectbox com filtro de períodos: no mês, no dia, na semana.
-* Implemente a paginação da tela de extrato onde as transações são exibidas.
+* Implemente o selectbox com filtro de períodos: no mês, na semana, no dia.
+* Implemente a paginação da tela de extrato "See more" onde as transações são exibidas.
 * Direncie por cor no valor da transação as que estão pendentes, aprovadas ou recusadas.
