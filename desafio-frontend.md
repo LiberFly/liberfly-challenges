@@ -22,7 +22,7 @@ Nosso designer projetou no figma a interface do novo aplicativo de carteira digi
 * Boas práticas de desenvolvimento seguindo os padrões da tecnologia escolhida.
 * Versionamento no GitHub.
 * Documentação no GitHub.
-* Criativade ao solucionar problemas durante o desenvolvimento.
+* Criatividade ao solucionar problemas durante o desenvolvimento.
 
 ## Json para obter dados
 
