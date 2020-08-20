@@ -30,32 +30,36 @@ Os dados apresentados no frontend devem ser obtidos a partir de um json, que dev
 ~~~json
 [
 	{
-		"category": "",
-		"item": "",
-		"amount": "",
-		"direction": "",
-		"datetime": ""
+		"category": "Checkout",
+		"item": "Depósito Bancário",
+		"amount": "100.00",
+		"type": "spending",
+		"datetime": "2020-08-20",
+		"status": "pending"
 	},
 	{
-		"category": "",
-		"item": "",
-		"amount": "",
-		"direction": "",
-		"datetime": ""
+		"category": "MGM",
+		"item": "Indicação",
+		"status": "100.00",
+		"type": "income",
+		"datetime": "2020-08-19",
+		"status": "approved"
 	},
 	{
-		"category": "",
-		"item": "",
-		"amount": "",
-		"direction": "",
-		"datetime": ""
+		"category": "MGM",
+		"item": "Indicação",
+		"amount": "100.00",
+		"type": "income",
+		"datetime": "2020-08-18",
+		"status": "approved"
 	},
 	{
-		"category": "",
-		"item": "",
-		"amount": "",
-		"direction": "",
-		"datetime": ""
+		"category": "MGM",
+		"item": "Indicação",
+		"amount": "100.00",
+		"type": "income",
+		"datetime": "2020-08-17",
+		"status": "approved"
 	}
 ]
 ~~~
@@ -64,3 +68,4 @@ Os dados apresentados no frontend devem ser obtidos a partir de um json, que dev
 
 * Implemente o selectbox com filtro de períodos: no mês, no dia, na semana.
 * Implemente a paginação da tela de extrato onde as transações são exibidas.
+* Direncie por cor no valor da transação as que estão pendentes, aprovadas ou recusadas.
