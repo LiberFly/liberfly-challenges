@@ -2,7 +2,7 @@
 
 ## Cenário hipotético
 
-Nosso designer projetou no figma a interface do novo aplicativo de carteira digital da LiberFly. Infelizmente o arquivo foi corrompido e nos restou apenas um arquivo PNG apresentando as telas projetadas. Enquanto o designer refaz o projeto no figma precisamos ganhar tempo no desenvolvimento para não atrasar a entrega do app e você é o programador frontend responsável por implementar a interface. A figura abaixo apresenta o projeto de interface elaborado pelo designer que você terá que implementar.
+Nosso designer projetou no figma a interface do novo aplicativo de carteira digital da LiberFly. Infelizmente o arquivo foi corrompido e nos restou apenas um arquivo PNG apresentando as telas projetadas. Enquanto o designer refaz o projeto, no figma, precisamos ganhar tempo no desenvolvimento para não atrasar a entrega do app e você é o programador frontend responsável por implementar a interface. A figura abaixo apresenta o projeto de interface elaborado pelo designer que você terá que implementar.
 
 ![Projeto de interface da carteira digital.](https://i.pinimg.com/originals/a8/b9/13/a8b9132cac792813e64813e728e1754c.png)
 
